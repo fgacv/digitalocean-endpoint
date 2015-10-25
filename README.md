@@ -9,7 +9,7 @@ El tipo de filtro que se utilizará. Las opciones son:
 
 ### action
 Acción que se realizará sobre el filtro ya ingresado. Las opciones son:
-*list-all
+* list-all
 
 ### target
 Solo se ejecuta si el filtro es **domain**. El único valor aceptado es el nombre del dominio.
