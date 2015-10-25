@@ -18,5 +18,3 @@ Solo se ejecuta si el filtro es **domain**. El único valor aceptado es el nombr
 Para hacer más fácil el ingreso de parámetros, quedando en el formato *dominio.algo/filter/action/target/*, el modelo de re-escritura es:
 
 `rewrite /(.*)/action/(.*)/(.*) /index.php?filter=$1&action=$2&target=$3;`
-
-Luego actualizo para Apache
