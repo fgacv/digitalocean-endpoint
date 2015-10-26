@@ -5,7 +5,7 @@ Funcionando sobre Nginx utilizando los siguientes parámetros
 
 ### filter
 El tipo de filtro que se utilizará. Las opciones son:
-*domain
+* domain
 
 ### action
 Acción que se realizará sobre el filtro ya ingresado. Las opciones son:
